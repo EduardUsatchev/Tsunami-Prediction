@@ -1,2 +1,2 @@
-# Tsunami-Prediction
-Tsunami Prediction ML project
+# Tsunami_prediction
+ Tsunami_prediction
